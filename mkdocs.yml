@@ -20,6 +20,7 @@ theme:
     accent: blue
 
 nav:
+  - Home: index.md
   - Overview:
       - Executive Summary: 01-overview/summary.md
       - Business Benefits: 01-overview/scenarios.md
