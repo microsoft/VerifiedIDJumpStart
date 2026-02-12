@@ -12,3 +12,11 @@ Microsoft Entra Verified ID with Face Check delivers measurable security and ope
 - Strengthens Zero Trust by validating both identity and real‑person presence  
 - Improves security of high‑risk workflows in a privacy‑respecting way  
 - Creates a consistent, user‑friendly verification experience across digital and physical scenarios
+
+# Disclaimers
+
+## General Guidance
+This document provides general guidance and example scenarios. Actual implementation should be validated through a customer‑specific design workshop and pilot.
+
+## Preview / In‑Development Features
+Some patterns may be in preview or subject to change and should be validated against current Microsoft documentation.
