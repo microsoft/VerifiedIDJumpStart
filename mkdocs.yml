@@ -1,0 +1,48 @@
+site_name: Entra Verified ID Jump Start Guide
+site_description: A guide to get you started on Verified ID Facecheck with commonly used scenarios, use cases and other setup details
+site_author: Microsoft
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - content.code.copy
+  palette:
+    scheme: default
+    primary: blue
+    accent: blue
+
+nav:
+  - Overview:
+      - Executive Summary: 01-overview/summary.md
+      - Business Benefits: 01-overview/scenarios.md
+      - Typical Scenarios: 01-overview/typical-scenarios.md
+
+  - Use Cases:
+      - Remote User Onboarding: 02-use-cases/onboarding.md
+      - Account Recovery & Helpdesk: 02-use-cases/recovery.md
+      - Physical Site Access: 02-use-cases/physical-access.md
+      - Sensitive Access (IGA): 02-use-cases/iga-and-verifiedid.md
+      - Privileged Roles: 02-use-cases/privileged-access.md
+      - Risk‑Based Verification: 02-use-cases/risk-based-invocation.md
+      - High‑Profile Users: 02-use-cases/high-profile-users.md
+      - Infrastructure Administration: 02-use-cases/infrastructure-admin.md
+
+  - Process:
+      - One‑Page Process Flow: 03-process/one-page-flow.md
+
+  - Implementation:
+      - Setup Process: 04-implementation/setup.md
+      - Rollout Priority: 04-implementation/priority.md
+
+  - Governance:
+      - Disclaimers: 05-governance/disclaimers.md
+      - References: 05-governance/references.md
+``
