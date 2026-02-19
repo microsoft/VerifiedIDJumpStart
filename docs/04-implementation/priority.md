@@ -35,11 +35,10 @@ Without a trusted credential issued to users, higher‑assurance verification (i
 ---
 
 ### Highest Value / Fastest Risk Reduction (P1)
+#### <ins> Account Recovery / Helpdesk Workflows </ins>
 
 These scenarios represent **real‑world, high‑frequency impersonation risk** and are commonly targeted by social engineering and credential‑based attacks.  
 Applying Verified ID and Face Check here typically delivers immediate security uplift with minimal disruption.
-
-#### Account Recovery / Helpdesk Workflows
 
 **Why it matters**
 - Helpdesk recovery is a primary entry point for social engineering attacks
@@ -54,7 +53,7 @@ Applying Verified ID and Face Check here typically delivers immediate security u
 - Verified helpdesk with Microsoft Entra Verified ID  
   https://learn.microsoft.com/en-us/entra/verified-id/helpdesk-with-verified-id  
 
-#### Controlled / Administrator Access
+#### <ins> Controlled / Administrator Access </ins>
 
 **Why it matters**
 - Administrator credentials are high‑value targets
@@ -65,13 +64,24 @@ Applying Verified ID and Face Check here typically delivers immediate security u
 - Strengthens audit and assurance for privileged actions
 - Reduces risk of credential theft and replay attacks
 
+#### <ins> High‑Profile User Sensitive Access </ins>
+
+**Why it matters**
+- Executives and board members are frequent impersonation targets
+- Impact of compromise is disproportionately high
+
+**Value delivered**
+- Aligns identity assurance with role criticality
+- Applies appropriate verification friction for high‑impact actions
+- Produces auditable verification outcomes
+
 ---
 
 ### Next Wave: Governed Sensitive Access (P2)
 
 Once issuance and high‑risk recovery paths are protected, organisations typically extend Verified ID into **governed access decisions**.
 
-#### Privilege Escalation via Identity Governance
+#### <ins> Privilege Escalation via Identity Governance </ins>
 
 **Why it matters**
 - Sensitive applications, data sets, and roles require stronger proof than authentication alone
@@ -86,17 +96,6 @@ Once issuance and high‑risk recovery paths are protected, organisations typica
 - Configure Verified ID settings for access packages  
   https://learn.microsoft.com/en-us/entra/id-governance/entitlement-management-verified-id-settings  
 
-#### High‑Profile User Sensitive Access
-
-**Why it matters**
-- Executives and board members are frequent impersonation targets
-- Impact of compromise is disproportionately high
-
-**Value delivered**
-- Aligns identity assurance with role criticality
-- Applies appropriate verification friction for high‑impact actions
-- Produces auditable verification outcomes
-
 ---
 
 ### Expansion Scenarios (P3)
@@ -104,19 +103,19 @@ Once issuance and high‑risk recovery paths are protected, organisations typica
 These scenarios typically follow once foundational controls and governance integrations are in place.  
 They deliver **scale, consistency, and operational efficiency** across broader populations and environments.
 
-#### Remote Onboarding at Scale
+#### <ins> Remote Onboarding at Scale </ins>
 - Extends high‑assurance onboarding to large frontline or contractor populations
 - Reduces reliance on manual or in‑person identity checks
 - Improves onboarding speed while maintaining strong assurance
 
-#### Physical Site Access
+#### <ins> Physical Site Access </ins>
 - Validates real person presence before granting site entry
 - Supports temporary and time‑bound access
 - Avoids exposing biometric data to physical access systems
 
+---
+
 > **Note:** P2 and P3 ordering may vary by organisation.  
 > For example, environments with heavy contractor usage may prioritise physical access earlier, while regulated industries may prioritise Identity Governance use cases.
-
----
 
 This phased approach helps organisations **start small, reduce risk early, and expand confidently**, while ensuring identity assurance scales
