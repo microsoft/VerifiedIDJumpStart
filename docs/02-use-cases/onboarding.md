@@ -1,4 +1,5 @@
 # Scenario 1: Remote User Onboarding (Frontline / Contractor / Remote Joiner)
+This scenario describes how Verified ID can be used during onboarding to ensure the individual joining the organisation is legitimate before they get access to organisation resource or facilities.
 
 ## Goal
 Verify that the person onboarding is legitimate before issuing an organisation‑trusted credential that will later be used in high‑risk scenarios.
