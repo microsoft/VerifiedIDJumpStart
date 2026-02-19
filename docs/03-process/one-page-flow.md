@@ -82,7 +82,7 @@ a risky action to proceed.
 ✅ Outcome: Strong verification with **privacy-by-design** and **no biometric storage**.
 
 ---
-![Process Flow](https://github.com/microsoft/VerifiedIDJumpStart/blob/main/docs/05-governance/one-page.png)
+![Process Flow](https://github.com/microsoft/verifiedidjumpstart/blob/main/docs/05-governance/one-page.png)
 
 ## Key Design Principles
 
