@@ -1,5 +1,7 @@
 # One‑Page Process Flow
 
+This page provides an end‑to‑end view of how Verified ID and Face Check are used across onboarding, access requests, risk‑based step‑up, and account recovery.
+
 ## 1. Onboard and Issue the Credential
 1. A new user joins the organisation.
 2. Identity is validated according to policy.
