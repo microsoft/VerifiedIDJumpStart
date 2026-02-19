@@ -1,11 +1,7 @@
----
-title: Verified ID Operational Flow for Sensitive Actions
-description: |
-  This document describes how Microsoft Entra Verified ID can be used as a reusable
-  identity verification control across onboarding, sensitive access requests,
-  risk-based enforcement, and helpdesk recovery scenarios. The flow demonstrates
-  how a single verification pattern (VID Check Phase) can be invoked at multiple
-  trust boundaries to reduce fraud, impersonation, and social engineering risk.
+
+# Verified ID Operational Flow for Sensitive Actions
+
+This document describes how Microsoft Entra Verified ID can be used as a reusable identity verification control across onboarding, sensitive access requests, risk-based enforcement, and helpdesk recovery scenarios. The flow demonstrates how a single verification pattern (VID Check Phase) can be invoked at multiple trust boundaries to reduce fraud, impersonation, and social engineering risk.
 ---
 
 ## Overview
