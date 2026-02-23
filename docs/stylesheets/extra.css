@@ -64,3 +64,12 @@
     padding: 12px;
     border-bottom: 1px solid #f0f0f0;
 }
+
+.md-typeset {
+  font-size: 1.0rem; /* Increase from the default 0.8rem */
+}
+
+/* for paragraph tags specifically */
+.md-typeset p {
+  font-size: 1.1rem;
+}
