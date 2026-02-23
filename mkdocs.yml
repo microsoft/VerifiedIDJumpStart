@@ -26,13 +26,10 @@ nav:
   - Home: index.md
   - Overview:
       - Executive Summary: 01-overview/summary.md
-      - Business Benefits: 01-overview/scenarios.md
-      - Typical Scenarios: 01-overview/scenarios.md
-
-  - About-This-Doc:
       - How To Use this Documentation: about/how-to-use.md
   
-  - Use Cases:
+  - Scenarios and Use Cases:
+      - Typical Scenarios: 01-overview/scenarios.md
       - Remote User Onboarding: 02-use-cases/onboarding.md
       - Account Recovery & Helpdesk: 02-use-cases/account-recovery.md
       - Physical Site Access: 02-use-cases/physical-access.md
