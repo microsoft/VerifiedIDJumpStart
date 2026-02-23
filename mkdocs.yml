@@ -30,14 +30,14 @@ nav:
   
   - Scenarios and Use Cases:
       - Typical Scenarios: 01-overview/scenarios.md
-      - Remote User Onboarding: 02-use-cases/onboarding.md
-      - Account Recovery & Helpdesk: 02-use-cases/account-recovery.md
-      - Physical Site Access: 02-use-cases/physical-access.md
-      - Sensitive Access (IGA): 02-use-cases/iga-and-verifiedid.md
-      - Privileged Roles: 02-use-cases/privileged-access.md
-      - Risk‑Based Verification: 02-use-cases/risk-based-invocation.md
-      - High‑Profile Users: 02-use-cases/high-profile-users.md
-      - Infrastructure Administration: 02-use-cases/infrastructure-admin.md
+      - 01-Account Recovery & Helpdesk: 02-use-cases/account-recovery.md
+      - 02-Remote User Onboarding: 02-use-cases/onboarding.md
+      - 03-Physical Site Access: 02-use-cases/physical-access.md
+      - 04-Sensitive Access (IGA): 02-use-cases/iga-and-verifiedid.md
+      - 05-Privileged Roles: 02-use-cases/privileged-access.md
+      - 06-Risk‑Based Verification: 02-use-cases/risk-based-invocation.md
+      - 07-High‑Profile Users: 02-use-cases/high-profile-users.md
+      - 08-Infrastructure Administration: 02-use-cases/infrastructure-admin.md
 
   - Process:
       - One‑Page Process Flow: 03-process/one-page-flow.md
