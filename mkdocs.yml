@@ -29,6 +29,9 @@ nav:
       - Business Benefits: 01-overview/scenarios.md
       - Typical Scenarios: 01-overview/scenarios.md
 
+  - About-This-Doc:
+      - How To Use this Documentation: about/how-to-use.md
+  
   - Use Cases:
       - Remote User Onboarding: 02-use-cases/onboarding.md
       - Account Recovery & Helpdesk: 02-use-cases/account-recovery.md
