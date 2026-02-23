@@ -31,7 +31,7 @@ nav:
 
   - Use Cases:
       - Remote User Onboarding: 02-use-cases/onboarding.md
-      - Account Recovery & Helpdesk: 02-use-cases/recovery.md
+      - Account Recovery & Helpdesk: 02-use-cases/account-recovery.md
       - Physical Site Access: 02-use-cases/physical-access.md
       - Sensitive Access (IGA): 02-use-cases/iga-and-verifiedid.md
       - Privileged Roles: 02-use-cases/privileged-access.md
