@@ -1,4 +1,4 @@
-# Scenario 2: Account Recovery / Password Reset / High‑Value Helpdesk Requests
+# Scenario 1: Account Recovery / Password Reset / High‑Value Helpdesk Requests
 This scenario describes how Verified ID and Face Check can protect helpdesk workflows from impersonation and social engineering attacks.
 
 ## Goal
